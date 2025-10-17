@@ -12,9 +12,9 @@ The work includes:
 The simulated structure represents a rectangular on-chip waveguide, including the core and cladding regions, designed for operation at a wavelength of 1550 nm.
 
 ## Results 
-![1] (https://github.com/Mohammad-Joubat/Multimode-Optical-Waveguide-Simulation/blob/main/pic1.png)
+![1](https://github.com/Mohammad-Joubat/Multimode-Optical-Waveguide-Simulation/blob/main/pic1.png)
 
-![2] (https://github.com/Mohammad-Joubat/Multimode-Optical-Waveguide-Simulation/blob/main/pic2.png)
+
 
 
 
