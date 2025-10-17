@@ -11,6 +11,10 @@ The work includes:
 ## Geometry Description
 The simulated structure represents a rectangular on-chip waveguide, including the core and cladding regions, designed for operation at a wavelength of 1550 nm.
 
+# Comsol File :
+
+https://tauex-my.sharepoint.com/:u:/g/personal/muhammadju_tauex_tau_ac_il/ETg34TGKblZEnawOLrN3SJkBSmK4Fdm8rqgADYmc-UoPiQ?e=x6qs9r
+
 ## Results 
 ![1](https://github.com/Mohammad-Joubat/Multimode-Optical-Waveguide-Simulation/blob/main/pic1.png)
 
