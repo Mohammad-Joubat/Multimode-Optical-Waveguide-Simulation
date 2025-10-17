@@ -20,6 +20,10 @@ The simulated structure represents a rectangular on-chip waveguide, including th
 
 ![3](https://github.com/Mohammad-Joubat/Multimode-Optical-Waveguide-Simulation/blob/main/pic3.png)
 
+# “Indicate the percentage of light transmitted and reflected.”
+
+![4](https://github.com/Mohammad-Joubat/Multimode-Optical-Waveguide-Simulation/blob/main/pic4.png)
+
 
 
 
