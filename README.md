@@ -16,6 +16,10 @@ The simulated structure represents a rectangular on-chip waveguide, including th
 
 ![1](https://github.com/Mohammad-Joubat/Multimode-Optical-Waveguide-Simulation/blob/main/pic2.png)
 
+# “Indicate the dimensions of the electric field at the input and output sides.”
+
+![3](https://github.com/Mohammad-Joubat/Multimode-Optical-Waveguide-Simulation/blob/main/pic3.png)
+
 
 
 
