@@ -14,6 +14,8 @@ The simulated structure represents a rectangular on-chip waveguide, including th
 ## Results 
 ![1](https://github.com/Mohammad-Joubat/Multimode-Optical-Waveguide-Simulation/blob/main/pic1.png)
 
+![1](https://github.com/Mohammad-Joubat/Multimode-Optical-Waveguide-Simulation/blob/main/pic2.png)
+
 
 
 
